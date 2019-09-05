@@ -1,0 +1,142 @@
+kvsw@kvsw-PC MINGW64 ~
+$ pwd
+/c/Users/kvsw
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd Desktop
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ ls
+ 507/                                  desktop.ini                   kavya/
+ ashu/                                'Git-2.23.0-64-bit (1).exe'*
+ AutoCAD_2016_English_Win_64bit_dlm/   google/
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ ls google
+'@facebook.PNG'   dress.PNG     'naa songs.PNG'
+ census.PNG       flipkart.PNG   time.PNG
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ touch sample.txt
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ cp sample1.txt sample2.txt
+cp: cannot stat 'sample1.txt': No such file or directory
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ mkdir apssdc
+
+kvsw@kvsw-PC MINGW64 ~/Desktop
+$ cd
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd apssdc
+bash: cd: apssdc: No such file or directory
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd apssdc
+bash: cd: apssdc: No such file or directory
+
+kvsw@kvsw-PC MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd
+
+kvsw@kvsw-PC MINGW64 ~
+$
+
+kvsw@kvsw-PC MINGW64 ~
+$ mkdir apssdc
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd
+
+kvsw@kvsw-PC MINGW64 ~
+$ cd apssdc
+
+kvsw@kvsw-PC MINGW64 ~/apssdc
+$ ls
+
+kvsw@kvsw-PC MINGW64 ~/apssdc
+$ rm -rf sample.txt
+
+kvsw@kvsw-PC MINGW64 ~/apssdc
+$ cd ..
+
+kvsw@kvsw-PC MINGW64 ~
+$ mv apssdc D
+
+kvsw@kvsw-PC MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ D/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+
+kvsw@kvsw-PC MINGW64 ~
+$ echo {1..10}
+1 2 3 4 5 6 7 8 9 10
+
+kvsw@kvsw-PC MINGW64 ~
+$
